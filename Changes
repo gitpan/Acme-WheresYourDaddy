@@ -1,0 +1,6 @@
+Revision history for Perl extension Acme::WheresYourDaddy.
+
+0.01  Thu Sep 19 15:27:17 2002
+	- original version; created by h2xs 1.21 with options
+		-AXn Acme::WheresYourDaddy
+
